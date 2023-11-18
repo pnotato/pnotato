@@ -1,5 +1,8 @@
 ### Hi there my name is Nick!👋
 
+```cpp
+int banana = 0;
+```
 <!--
 **pnotato/pnotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
