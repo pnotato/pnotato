@@ -1,7 +1,7 @@
 ### Hi there my name is Nick!👋
 
-```python
-print("Hello, I'm Nick 🫠")
+```c
+printf("Hello, I'm Nick 🫠");
 ```
 
 <!--
