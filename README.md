@@ -3,6 +3,8 @@
 ```python
 print("Hello, I'm Nick 🫠")
 ```
+
+![[Screenshot 2023-11-15 at 3.53.16 PM.png]]
 <!--
 **pnotato/pnotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
