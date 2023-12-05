@@ -1,7 +1,6 @@
-### Hi there my name is Nick!👋
 
 ```python
-print("Hello, I'm Nick 🫠")
+print("Hi, I'm Nick! 🫠")
 ```
 
 <!--
