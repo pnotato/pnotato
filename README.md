@@ -1,11 +1,14 @@
 
 ```c
-#include <stdio.h>
 
-int main(void)
-{
-    printf("Hello, I'm Nick! 🫠");
-}
+![[sunset.jpg]]
+
+## Hi, I'm Nick. 
+
+I'm a third year computer science student studying at  Simon Fraser University. I'm currently a co-op student at BC Cancer!
+
+I'm interested in AI and Biomedical Computing, and I'm familiar with Python, C++, GoLang, and Javascript.
+
 ```
 
 <!--
