@@ -1,14 +1,10 @@
-
-
-![[sunset.jpg]]
+![Image Example](./sunset.jpg)
 
 ## Hi, I'm Nick. 
 
 I'm a third year computer science student studying at  Simon Fraser University. I'm currently a co-op student at BC Cancer!
 
-I'm interested in AI and Biomedical Computing, and I'm familiar with Python, C++, GoLang, and Javascript.
-
-
+I'm interested in AI and how we can use technology in healthcare, and I'm familiar with Python, C++, GoLang, and Javascript.
 
 <!--
 **pnotato/pnotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
