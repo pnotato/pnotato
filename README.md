@@ -1,5 +1,4 @@
 
-```c
 
 ![[sunset.jpg]]
 
@@ -9,7 +8,7 @@ I'm a third year computer science student studying at  Simon Fraser University. 
 
 I'm interested in AI and Biomedical Computing, and I'm familiar with Python, C++, GoLang, and Javascript.
 
-```
+
 
 <!--
 **pnotato/pnotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
