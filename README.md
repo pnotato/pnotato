@@ -6,7 +6,7 @@ I'm a third year computer science student studying at  Simon Fraser University. 
 
 I'm interested in AI and how we can use technology in healthcare, and I'm familiar with Python, C++, GoLang, and Javascript.
 
-Check out my website at [https://pnotato.github.io/portfolio/]
+Check out my website at https://pnotato.github.io/portfolio/
 
 <!--
 **pnotato/pnotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
