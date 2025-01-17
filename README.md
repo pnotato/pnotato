@@ -2,7 +2,7 @@
 
 ## Hi, I'm Nick. 
 
-I'm a third year computer science student studying at  Simon Fraser University. I'm currently a co-op student at BC Cancer!
+I'm a third year computer science student studying at  Simon Fraser University. I've previously worked at BC Cancer.
 
 I'm interested in AI and how we can use technology in healthcare, and I'm familiar with Python, C++, Javascript, and Bash.
 
