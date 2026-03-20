@@ -2,9 +2,9 @@
 
 ## Hi, I'm Nick. 
 
-I'm a fourth year computer science student studying at Simon Fraser University. I'm currently a Software Engineering Intern at ![Blaise Transit](https://www.blaisetransit.com/)!
+I'm a fourth year computer science student studying at Simon Fraser University. I'm currently a Software Engineering Intern at ![Rivian and Volkswagen Group Technologies](https://rivianvw.tech/).
 
-I also previously interned at the BC Cancer Research Centre. I'm familiar with Python, C++, TypeScript, and Java. Check out my website at https://nickchan.ca/
+I've also previously interned at ![Blaise Transit](https://www.blaisetransit.com/) and the ![BC Cancer Research Centre](https://www.bcgsc.ca/).
 
 <!--
 **pnotato/pnotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
