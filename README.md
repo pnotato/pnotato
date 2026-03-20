@@ -2,9 +2,9 @@
 
 ## Hi, I'm Nick. 
 
-I'm a fourth year computer science student studying at Simon Fraser University. I'm currently a Software Engineering Intern at ![Rivian and Volkswagen Group Technologies](https://rivianvw.tech/).
+I'm a fourth year computer science student studying at Simon Fraser University. I'm currently a Software Engineering Intern at [Rivian and Volkswagen Group Technologies](https://rivianvw.tech/).
 
-I've also previously interned at ![Blaise Transit](https://www.blaisetransit.com/) and the ![BC Cancer Research Centre](https://www.bcgsc.ca/).
+I've also previously interned at [Blaise Transit](https://www.blaisetransit.com/) and the [BC Cancer Research Centre](https://www.bcgsc.ca/).
 
 <!--
 **pnotato/pnotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
